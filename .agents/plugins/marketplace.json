@@ -1,7 +1,7 @@
 {
-  "name": "personal",
+  "name": "moments_poster_team",
   "interface": {
-    "displayName": "Personal"
+    "displayName": "朋友圈海报 Skill 团队版"
   },
   "plugins": [
     {
